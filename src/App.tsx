@@ -1,7 +1,7 @@
-import ObraWebAppExample from "@/pages/ObraWebAppExample";
+import AuthScreen from "@/pages/AuthScreen";
 
 function App() {
-  return <ObraWebAppExample />;
+  return <AuthScreen />;
 }
 
 export default App;
